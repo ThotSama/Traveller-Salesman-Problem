@@ -34,3 +34,6 @@ manager.AntColonyOptimization("ACS") # or "ELITIST" or "MAX-MIN"
      The code is a little bit redundant , it's need some refactoring.
      And the ui also need some retouch
 ---
+## Incoming Features
+	The code will be able to read a specific excel file in order to have specific points
+---
